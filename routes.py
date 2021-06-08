@@ -11,9 +11,6 @@ def index():
 @app.route('/symbol.html')
 def symbol():
     return render_template('symbol.html', the_title='Tiger As Symbol')
-    
-def unknown():
-    return render_template('symbol.html', the_title='Tiger As Symbol')
 
 @app.route('/myth.html')
 def myth():
