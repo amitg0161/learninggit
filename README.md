@@ -1,4 +1,5 @@
 # Basic Flask App
+# I am using it for learing git
 
 This small repo demonstrates a proper file structure for a Flask app. The folders named *static* and *templates* are required.
 
@@ -8,4 +9,4 @@ The template file `base.html` is used as a shell by the other three HTML templat
 
 After installing all dependencies, run the app by entering its folder and typing:
 
-`$ python routes.py`
+"$ python routes.py"
