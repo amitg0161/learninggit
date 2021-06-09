@@ -1,6 +1,8 @@
 # Basic Flask App
 # I am using it for learing git
 
+making some changes to learn.
+
 This small repo demonstrates a proper file structure for a Flask app. The folders named *static* and *templates* are required.
 
 **Routes** and **static files** are handled correctly in all `src` and `href` attributes in the template files.
