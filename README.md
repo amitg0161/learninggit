@@ -1,7 +1,10 @@
-# Basic Flask App
 # I am using it for learing git
 
-making some changes to learn. and upload it to the upstream.
+**I making some changes to learn. and upload it to the upstream.**
+
+
+Basic Flask App
+
 
 This small repo demonstrates a proper file structure for a Flask app. The folders named *static* and *templates* are required.
 
